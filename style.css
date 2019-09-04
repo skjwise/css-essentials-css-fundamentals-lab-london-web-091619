@@ -2,7 +2,9 @@ header {
   text-align: center;
 }
 
-#featured-property > p
+#featured-property > p {
+  
+}
 
 body {
   width: 100%;
