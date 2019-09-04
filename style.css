@@ -1,5 +1,42 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+header {
+  text-align:center;
 }
+
+#featured-property > p {
+  width:800px;
+  text-align:center;
+  margin:auto;
+}
+
+#featured-property {
+  text-align:center;
+}
+
+figcaption {
+  text-align:center;
+  font-size:12px;
+}
+
+a {
+  padding-left:10px;
+  padding-right:10px;
+  background-color:grey;
+}
+
+body {
+  width:100%;
+  height:100%;
+  margin:0;
+}
+
+#details {
+  display:block;
+}
+
+#details > div {
+  float:left;
+  width:25%;
+  background-color:red;
+  text-align:center;
+}
+
